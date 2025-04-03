@@ -13,6 +13,8 @@ Gamification features (leaderboards, badges, levels) to boost student engagement
 AI-driven event discovery to help students connect with the right opportunities.
 Intended Impact
 
+
+
 TECHNOLOGIES-
 Vosk - Speech recognition system for offline use 
 thefuzz - Fuzzy string matching library for text similarity 
