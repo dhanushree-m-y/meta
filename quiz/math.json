@@ -1,0 +1,48 @@
+[
+  {
+      "question": "Find the greatest and the smallest numbers in the following set: [2365, 782, 45098, 9213, 105]",
+      "hints": [
+          "Compare the number of digits in each number.",
+          "A number with more digits is greater than one with fewer digits.",
+          "If two numbers have the same number of digits, compare digit by digit from left to right.",
+          "The number with the smallest left-most digit is the smallest."
+      ],
+      "answer": {
+          "greatest": 45098,
+          "smallest": 105
+      }
+  },
+  {
+      "question": "Find the greatest and the smallest numbers in the following set: [1457, 82345, 1002, 5478, 321]",
+      "hints": [
+          "First, check the number of digits in each number.",
+          "A five-digit number is greater than any four-digit number.",
+          "Among four-digit numbers, compare the left-most digits.",
+          "The number with the smallest left-most digit is the smallest."
+      ],
+      "answer": {
+          "greatest": 82345,
+          "smallest": 321
+      }
+  },
+  {
+      "question": "Arrange the following numbers in ascending order: [7634, 982, 34678, 1245, 572]",
+      "hints": [
+          "Start by grouping numbers based on the number of digits.",
+          "A three-digit number is smaller than any four-digit number.",
+          "Compare the left-most digits of numbers with the same number of digits.",
+          "Arrange numbers from the smallest to the largest based on these comparisons."
+      ],
+      "answer": [572, 982, 1245, 7634, 34678]
+  },
+  {
+      "question": "Arrange the following numbers in descending order: [1289, 30987, 2504, 897, 67890]",
+      "hints": [
+          "First, check how many digits each number has.",
+          "A five-digit number is the largest among smaller-digit numbers.",
+          "Among four-digit numbers, compare the left-most digits to determine order.",
+          "The number with the highest left-most digit comes first in descending order."
+      ],
+      "answer": [67890, 30987, 2504, 1289, 897]
+  }
+]

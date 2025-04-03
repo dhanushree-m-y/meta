@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <!-- Black Background -->
+  <rect width="100%" height="100%" fill="#000" />
+  
+  <!-- Gradient Definitions -->
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8A2BE2" />
+      <stop offset="100%" stop-color="#FF1493" />
+    </linearGradient>
+    <linearGradient id="flowGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00CED1" />
+      <stop offset="100%" stop-color="#32CD32" />
+    </linearGradient>
+    <linearGradient id="dataGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFA500" />
+      <stop offset="100%" stop-color="#FF4500" />
+    </linearGradient>
+    <linearGradient id="recommendGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF69B4" />
+      <stop offset="100%" stop-color="#FF1493" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  
+  <!-- Title -->
+  <text x="400" y="60" font-family="Arial" font-size="40" fill="url(#headerGradient)" text-anchor="middle" filter="url(#glow)">
+    Zynk Event Discovery System
+  </text>
+  
+  <!-- Main Flow Diagram -->
+  <!-- User Input Section -->
+  <rect x="100" y="120" width="200" height="100" rx="15" fill="rgba(50,50,50,0.7)" stroke="url(#flowGradient)" stroke-width="3" />
+  <text x="200" y="150" font-family="Arial" font-size="20" fill="#FFFFFF" text-anchor="middle">User Input</text>
+  <text x="200" y="180" font-family="Arial" font-size="14" fill="#CCCCCC" text-anchor="middle">Grade, Domain, Location</text>
+  
+  <!-- Load Data Section -->
+  <rect x="400" y="120" width="200" height="100" rx="15" fill="rgba(50,50,50,0.7)" stroke="url(#dataGradient)" stroke-width="3" />
+  <text x="500" y="150" font-family="Arial" font-size="20" fill="#FFFFFF" text-anchor="middle">Event Data</text>
+  <text x="500" y="180" font-family="Arial" font-size="14" fill="#CCCCCC" text-anchor="middle">Junior/10+ Events</text>
+  
+  <!-- Arrows -->
+  <path d="M300 170 L400 170" stroke="url(#flowGradient)" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <!-- Processing Section -->
+  <rect x="250" y="270" width="300" height="120" rx="15" fill="rgba(50,50,50,0.7)" stroke="#4B0082" stroke-width="3" />
+  <text x="400" y="300" font-family="Arial" font-size="20" fill="#FFFFFF" text-anchor="middle">Processing</text>
+  <text x="400" y="330" font-family="Arial" font-size="14" fill="#CCCCCC" text-anchor="middle">TF-IDF Vectorization</text>
+  <text x="400" y="350" font-family="Arial" font-size="14" fill="#CCCCCC" text-anchor="middle">Cosine Similarity</text>
+  <text x="400" y="370" font-family="Arial" font-size="14" fill="#CCCCCC" text-anchor="middle">Domain & Location Filtering</text>
+  
+  <!-- Arrows to Processing -->
+  <path d="M200 220 L200 330 L250 330" stroke="url(#flowGradient)" stroke-width="3" fill="none"/>
+  <path d="M500 220 L500 330 L550 330" stroke="url(#dataGradient)" stroke-width="3" fill="none"/>
+  
+  <!-- Recommendations Output -->
+  <rect x="250" y="440" width="300" height="100" rx="15" fill="rgba(50,50,50,0.7)" stroke="url(#recommendGradient)" stroke-width="3" />
+  <text x="400" y="470" font-family="Arial" font-size="20" fill="#FFFFFF" text-anchor="middle">Recommendations</text>
+  <text x="400" y="500" font-family="Arial" font-size="14" fill="#CCCCCC" text-anchor="middle">Ranked Events by Relevance</text>
+  
+  <!-- Arrow to Results -->
+  <path d="M400 390 L400 440" stroke="url(#recommendGradient)" stroke-width="3" fill="none"/>
+  
+  <!-- Data Icons -->
+  <!-- Junior Events -->
+  <circle cx="650" y="150" r="30" fill="rgba(50,50,50,0.7)" stroke="url(#dataGradient)" stroke-width="2" />
+  <text x="650" y="155" font-family="Arial" font-size="10" fill="#FFFFFF" text-anchor="middle">Junior</text>
+  
+  <!-- 10+ Events -->
+  <circle cx="720" y="150" r="30" fill="rgba(50,50,50,0.7)" stroke="url(#dataGradient)" stroke-width="2" />
+  <text x="720" y="155" font-family="Arial" font-size="10" fill="#FFFFFF" text-anchor="middle">10+</text>
+  
+  <!-- Feature Icons -->
+  <rect x="650" y="270" width="120" height="30" rx="5" fill="rgba(50,50,50,0.7)" stroke="#7B68EE" stroke-width="2" />
+  <text x="710" y="290" font-family="Arial" font-size="12" fill="#FFFFFF" text-anchor="middle">Fuzzy Matching</text>
+  
+  <rect x="650" y="310" width="120" height="30" rx="5" fill="rgba(50,50,50,0.7)" stroke="#7B68EE" stroke-width="2" />
+  <text x="710" y="330" font-family="Arial" font-size="12" fill="#FFFFFF" text-anchor="middle">Location Normalize</text>
+  
+  <rect x="650" y="350" width="120" height="30" rx="5" fill="rgba(50,50,50,0.7)" stroke="#7B68EE" stroke-width="2" />
+  <text x="710" y="370" font-family="Arial" font-size="12" fill="#FFFFFF" text-anchor="middle">Search History</text>
+  
+  <!-- Event Types -->
+  <g transform="translate(100, 440)">
+    <rect width="120" height="100" rx="10" fill="rgba(50,50,50,0.5)" stroke="#4169E1" stroke-width="2" />
+    <text x="60" y="25" font-family="Arial" font-size="14" fill="#FFFFFF" text-anchor="middle">Event Types</text>
+    <text x="60" y="50" font-family="Arial" font-size="10" fill="#CCCCCC" text-anchor="middle">Science, AI</text>
+    <text x="60" y="70" font-family="Arial" font-size="10" fill="#CCCCCC" text-anchor="middle">Programming, Web3</text>
+    <text x="60" y="90" font-family="Arial" font-size="10" fill="#CCCCCC" text-anchor="middle">Art, Cultural</text>
+  </g>
+  
+  <!-- Zynk Logo -->
+  <circle cx="400" y="570" r="20" fill="none" stroke="url(#headerGradient)" stroke-width="3" />
+  <text x="400" y="575" font-family="Arial" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Z</text>
+  <text x="430" y="575" font-family="Arial" font-size="16" fill="url(#headerGradient)" text-anchor="start">ynk</text>
+  
+  <!-- Arrow Definitions -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#00CED1" />
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,49 @@
+{
+    "grade_data": {
+        "8": {
+            "science": [
+                "mysuru",
+                "mysuru",
+                "mysuru",
+                "mysuru",
+                "mysuru",
+                "mysuru",
+                "mysuru",
+                "bengaluru",
+                "mysuru",
+                "bengaluru"
+            ]
+        },
+        "10": {
+            "technology": [
+                "mysuru"
+            ]
+        },
+        "5": {
+            "maths": [
+                "mysore"
+            ],
+            "cultural": [
+                "bengaluru"
+            ],
+            "science": [
+                "mysore"
+            ]
+        },
+        "12": {
+            "ai": [
+                "mysuru"
+            ]
+        },
+        "11": {
+            "ai": [
+                "belagavi"
+            ]
+        },
+        "7": {
+            "science": [
+                "bengaluru"
+            ]
+        }
+    }
+}

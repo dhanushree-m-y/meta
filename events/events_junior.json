@@ -1,0 +1,72 @@
+{
+    "Karnataka Science Exhibition": {
+        "description": "Annual state-level science exhibition for students to showcase innovative projects.",
+        "location": "Bengaluru",
+        "domain": "Science",
+        "date": "Feb 5, 2024",
+        "fee": "\u20b9200"
+    },
+    "Junior Programming Contest": {
+        "description": "Programming competition designed for young students to learn coding basics.",
+        "location": "Bengaluru",
+        "domain": "Programming",
+        "date": "Mar 10, 2024",
+        "fee": "\u20b9500"
+    },
+    "Pratibha Karanji": {
+        "description": "Karnataka's state-level talent search competition for students covering arts, culture, and academics.",
+        "location": "Mysuru",
+        "domain": "Cultural",
+        "date": "Dec 15, 2024",
+        "fee": "Free"
+    },
+    "Young Scientist Fair": {
+        "description": "Exhibition for young science enthusiasts to display their projects and innovations.",
+        "location": "Mangaluru",
+        "domain": "Science",
+        "date": "Jan 25, 2024",
+        "fee": "\u20b9250"
+    },
+    "Robotic Workshop for Beginners": {
+        "description": "Introductory hands-on workshop for students to learn basics of robotics.",
+        "location": "Bengaluru",
+        "domain": "Robotics",
+        "date": "Apr 5, 2024",
+        "fee": "\u20b91,000"
+    },
+    "Mathematics Olympiad": {
+        "description": "State-level mathematics competition for school students.",
+        "location": "Hubballi",
+        "domain": "Mathematics",
+        "date": "Feb 18, 2024",
+        "fee": "\u20b9300"
+    },
+    "Junior Hackathon": {
+        "description": "A fun coding event designed for young students to solve simple programming challenges.",
+        "location": "Bengaluru",
+        "domain": "Programming",
+        "date": "May 12, 2024",
+        "fee": "\u20b9500"
+    },
+    "Science Model Exhibition": {
+        "description": "Platform for students to showcase their science models and innovations.",
+        "location": "Belagavi",
+        "domain": "Science",
+        "date": "Mar 22, 2024",
+        "fee": "\u20b9200"
+    },
+    "Design Thinking Workshop": {
+        "description": "Interactive workshop teaching young students the basics of design thinking.",
+        "location": "Bengaluru",
+        "domain": "Design",
+        "date": "Jun 8, 2024",
+        "fee": "\u20b9800"
+    },
+    "Young Artists Showcase": {
+        "description": "Art exhibition and competition for young artists across Karnataka.",
+        "location": "Mysuru",
+        "domain": "Art",
+        "date": "Apr 15, 2024",
+        "fee": "\u20b9250"
+    }
+}

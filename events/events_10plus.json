@@ -1,0 +1,72 @@
+{
+    "AI Conference 2024": {
+        "description": "Join the AI revolution at this global AI conference with top experts.",
+        "location": "Bengaluru",
+        "domain": "AI",
+        "date": "Jan 10, 2024",
+        "fee": "\u20b92,000"
+    },
+    "Blockchain Summit 2024": {
+        "description": "Explore the future of finance and technology at the blockchain summit.",
+        "location": "Bengaluru",
+        "domain": "Blockchain",
+        "date": "Jan 15, 2024",
+        "fee": "\u20b92,500"
+    },
+    "Tech Meetup 2024": {
+        "description": "A meetup for tech enthusiasts to discuss the latest trends in technology.",
+        "location": "Bengaluru",
+        "domain": "Technology",
+        "date": "Jan 20, 2024",
+        "fee": "Free"
+    },
+    "AI Workshop": {
+        "description": "Hands-on workshop to learn AI tools and techniques.",
+        "location": "Chennai",
+        "domain": "AI",
+        "date": "Feb 10, 2024",
+        "fee": "\u20b91,500"
+    },
+    "Blockchain Workshop": {
+        "description": "Learn how blockchain works with interactive sessions.",
+        "location": "Hyderabad",
+        "domain": "Blockchain",
+        "date": "Dec 5, 2024",
+        "fee": "\u20b91,000"
+    },
+    "HTMD Conference": {
+        "description": "HTMD Conference is happening on Dec 07, 2024, from 9:00 AM - 5:00 PM at Microsoft reactor-Lavelle Road, Bengaluru. The registration fee is $299 with 1200 attendees expected. Key topics include Technology, Innovation, and AI.",
+        "location": "Bengaluru",
+        "domain": "Technology",
+        "date": "Dec 07, 2024",
+        "fee": "\u20b920,000"
+    },
+    "Unfold": {
+        "description": "Unfold 24 is Asia's largest hackathon with $100K+ worth bounties and 500+ Web3 developers. It's taking place in Whitefield, Bengaluru at the Marriott Hotel.",
+        "location": "Bengaluru",
+        "domain": "Web3",
+        "date": "Dec 12, 2024",
+        "fee": "\u20b93,000"
+    },
+    "AI Camp": {
+        "description": "AI Camp is a meetup in Bengaluru focusing on AI, LLMs, ML, and Data. It's a free event with hands-on sessions.",
+        "location": "Bengaluru",
+        "domain": "AI",
+        "date": "Jan 30, 2024",
+        "fee": "Free"
+    },
+    "Cybersecurity Hackathon": {
+        "description": "A 48-hour hackathon focused on solving real-world cybersecurity challenges.",
+        "location": "Mysuru",
+        "domain": "Cybersecurity",
+        "date": "Mar 15, 2024",
+        "fee": "\u20b91,000"
+    },
+    "DevOps Conference": {
+        "description": "Learn about the latest DevOps practices, tools, and methodologies.",
+        "location": "Mangaluru",
+        "domain": "DevOps",
+        "date": "Apr 20, 2024",
+        "fee": "\u20b92,500"
+    }
+}

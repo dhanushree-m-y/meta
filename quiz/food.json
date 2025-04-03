@@ -1,0 +1,62 @@
+[  
+    {  
+        "question": "What are the main sources of our food?",  
+        "hints": [  
+            "One source grows from the ground, providing essential nutrients.",  
+            "The other source includes beings that can move independently.",  
+            "The first source can be found in gardens and fields.",  
+            "The second source includes various mammals and birds.",  
+            "Both sources are essential for a balanced diet.",  
+            "Think of the origin of fruits and steak."  
+        ],  
+        "answer": "Plants and animals"  
+    },  
+    {  
+        "question": "Where do fruits and vegetables come from?",  
+        "hints": [  
+            "They are cultivated in gardens, farms, or wild areas.",  
+            "They undergo a process known as photosynthesis.",  
+            "These are typically harvested during specific seasons.",  
+            "They are not manufactured but naturally grown.",  
+            "These form the basis of vegetarian diets.",  
+            "Common examples include apples and carrots."  
+        ],  
+        "answer": "Plants"  
+    },  
+    {  
+        "question": "What common animals provide us with milk?",  
+        "hints": [  
+            "These animals are often found on farms.",  
+            "They primarily consume grass.",  
+            "They are mammals.",  
+            "They are domesticated for various agricultural purposes.",  
+            "These animals are also used for other dairy products.",  
+            "Think of the animals you see in dairy commercials."  
+        ],  
+        "answer": "Cows, goats, and buffaloes"  
+    },  
+    {  
+        "question": "What parts of plants do we commonly eat?",  
+        "hints": [  
+            "Some of these parts grow below the soil and others above it.",  
+            "These include both reproductive and support structures.",  
+            "Examples include tubers, leaves, and seeds.",  
+            "Edible parts can vary widely from one plant to another.",  
+            "We often eat the parts that store nutrients.",  
+            "Carrots, celery, and oranges are all examples."  
+        ],  
+        "answer": "Roots, stems, leaves, and fruits"  
+    },  
+    {  
+        "question": "How do bees produce honey?",  
+        "hints": [  
+            "Bees collect a sweet substance from flora.",  
+            "This substance is processed naturally by the bees.",  
+            "It is stored in a structure made by the bees.",  
+            "The process involves regurgitation and evaporation.",  
+            "Humans harvest this product from the structure.",  
+            "The final product is sweet and thick."  
+        ],  
+        "answer": "Bees collect nectar from flowers and convert it into honey"  
+    }  
+]  

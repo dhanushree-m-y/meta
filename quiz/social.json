@@ -1,0 +1,87 @@
+[
+    {
+        "question": "What were some of the ancient names of India?",
+        "hints": [
+            "These names were used in ancient texts and inscriptions.",
+            "One name is derived from a famous king of the Mahabharata era.",
+            "Another name refers to a vast landmass in olden scriptures.",
+            "One name was later modified by the Persians and Greeks.",
+            "These names include Jambudweepa and Bharata-Khanda."
+        ],
+        "answer": "Jambudweepa, Bharata-Khanda, Bharata-varsha"
+    },
+    {
+        "question": "Why was India called Bharata?",
+        "hints": [
+            "It is named after a legendary ruler.",
+            "This ruler was the son of Emperor Dushyanta and Shakuntala.",
+            "Another king with the same name, Bharata, was the son of Vrishabhanatha.",
+            "A sage named Jada Bharata also contributed to the name."
+        ],
+        "answer": "Named after King Bharata, son of Dushyanta and Shakuntala, and other figures like Bharata, son of Vrishabhanatha."
+    },
+    {
+        "question": "How did the name ‘India’ originate?",
+        "hints": [
+            "It traces back to a river’s name.",
+            "The Persians found it difficult to pronounce ‘Sindhu’.",
+            "They changed 'Sindhu' to 'Hindu'.",
+            "The Greeks later modified it to ‘Indu’."
+        ],
+        "answer": "Derived from the Sindhu river; Persians called it 'Hindu', later modified by Greeks to 'Indu' and then 'India'."
+    },
+    {
+        "question": "What was the contribution of William Jones to Indian culture?",
+        "hints": [
+            "He was an English scholar and a judge in British India.",
+            "He studied Sanskrit from Indian scholars.",
+            "He founded an important society for Indian studies.",
+            "He translated ancient Indian texts into English.",
+            "His works included an English commentary on the Bhagavad Gita."
+        ],
+        "answer": "Founded Asiatic Society, translated Sanskrit texts, and promoted Indian literature."
+    },
+    {
+        "question": "What were India’s contributions to Mathematics?",
+        "hints": [
+            "Ashokan edicts included these numerical concepts 2300 years ago.",
+            "India introduced an important numeral which simplified calculations.",
+            "Decimals and algebra were first used in ancient India.",
+            "A famous theorem, often credited to a Greek mathematician, was already known in India.",
+            "A sage named Kanaada first theorized about the atom."
+        ],
+        "answer": "Zero, numerals, decimals, algebra, Pythagoras' theorem (known as Bodhayana theorem), and atomic theory."
+    },
+    {
+        "question": "Which Indian astronomer stated that the Earth is round and revolves around the Sun?",
+        "hints": [
+            "He was an ancient Indian mathematician and astronomer.",
+            "His discoveries were later credited to a European scientist.",
+            "His name starts with ‘A’ and ends with ‘hata’.",
+            "He also contributed to trigonometry and algebra."
+        ],
+        "answer": "Aryabhata"
+    },
+    {
+        "question": "How did Indian culture influence other countries?",
+        "hints": [
+            "Indian religions like Buddhism spread beyond India.",
+            "Afghanistan, China, Korea, and Japan were influenced.",
+            "A famous Buddhist idol was once present in Bamyan, Afghanistan.",
+            "Indian epics like the Ramayana influenced art and literature in Southeast Asia.",
+            "A large Hindu temple exists in Cambodia."
+        ],
+        "answer": "Buddhism spread to Asia; Hindu temples like Angkor Wat in Cambodia and Borobudur in Java show Indian influence."
+    },
+    {
+        "question": "What are some eternal values of Indian culture?",
+        "hints": [
+            "Respecting teachers is a key principle.",
+            "Truthfulness and righteousness are emphasized.",
+            "Non-violence is a central philosophy.",
+            "The idea that the world is one family is a core belief.",
+            "Religious equality has been a long-standing tradition in India."
+        ],
+        "answer": "Respect for teachers, truthfulness, non-violence, Vasudhaiva Kutumbakam, religious equality."
+    }
+]
