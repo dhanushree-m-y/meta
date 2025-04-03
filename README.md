@@ -1,7 +1,9 @@
 EDUCATION
 Our solution is an AI-powered education and event discovery platform designed for students in low-income and government schools. It enhances learning, accessibility, and engagement through a combination of AI-generated quizzes, OCR-based text extraction, AI-powered answer generation, event discovery, and multi-language support. The system works offline, making education accessible even in remote areas with limited internet connectivity.
 
-![Alt Text](image.png)
+
+
+Frontend - https://remarkable-sawine-c26e46.netlify.app/
 
 Includes Braille and text-to-speech support, making learning inclusive for visually impaired students.
 AI-powered adaptive quizzes tailored to individual learning needs.
